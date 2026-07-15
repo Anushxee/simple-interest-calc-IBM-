@@ -1,0 +1,4 @@
+origin  https://github.com/<your-github-username>/<repository-name>.git (fetch)
+origin  https://github.com/<your-github-username>/<repository-name>.git (push)
+upstream  https://github.com/ibm-developer-skills-network/simple-interest-calculator.git (fetch)
+upstream  https://github.com/ibm-developer-skills-network/simple-interest-calculator.git (push)
